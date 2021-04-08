@@ -19,18 +19,18 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=false;\n"
 
 #: data/po_files/../../sections/todo/view__clear_tasks.js:57
-msgid "Delete all completed tasks"
+msgid "Xóa hết nhiệm vụ đã hoàn thành"
 msgstr ""
 
 #: data/po_files/../../sections/todo/view__clear_tasks.js:70
-msgid "Archive all completed tasks to done.txt and delete them"
+msgid "Lưu trữ những nhiệm vụ đã xong vào file done.txt và xóa chúng"
 msgstr ""
 
 #: data/po_files/../../sections/todo/view__clear_tasks.js:94
 #: data/po_files/../../sections/todo/view__task_editor.js:207
 #: data/po_files/../../sections/todo/view__file_switcher.js:444
 #: data/po_files/../../sections/alarms.js:566
-msgid "Delete"
+msgid "Xóa"
 msgstr ""
 
 #: data/po_files/../../sections/todo/view__clear_tasks.js:97
@@ -41,62 +41,62 @@ msgstr ""
 #: data/po_files/../../sections/todo/view__file_switcher.js:449
 #: data/po_files/../../sections/alarms.js:574
 #: data/po_files/../../sections/pomodoro.js:776
-msgid "Cancel"
+msgid "Hủy"
 msgstr ""
 
 #: data/po_files/../../sections/todo/view__stats.js:101
-msgid "Today"
+msgid "Hôm nay"
 msgstr ""
 
 #: data/po_files/../../sections/todo/view__stats.js:102
-msgid "This Week"
+msgid "Tuần này"
 msgstr ""
 
 #: data/po_files/../../sections/todo/view__stats.js:103
-msgid "This Month"
+msgid "Tháng này"
 msgstr ""
 
 #: data/po_files/../../sections/todo/view__stats.js:104
-msgid "Last 3 Months"
+msgid "3 tháng trước"
 msgstr ""
 
 #: data/po_files/../../sections/todo/view__stats.js:105
-msgid "Last 6 Months"
+msgid "6 tháng trước"
 msgstr ""
 
 #: data/po_files/../../sections/todo/view__stats.js:106
-msgid "All Time"
+msgid "Mọi lúc"
 msgstr ""
 
 #: data/po_files/../../sections/todo/view__stats.js:173
 #: data/po_files/../../sections/todo/view__kanban_switcher.js:62
 #: data/po_files/../../sections/todo/view__file_switcher.js:68
 #: data/po_files/../../sections/timer.js:641
-msgid "Search..."
+msgid "Tìm kiếm..."
 msgstr ""
 
 #: data/po_files/../../sections/todo/view__stats.js:188
 #: data/po_files/../../sections/todo/view__stats.js:302
 #: data/po_files/../../sections/todo/view__stats.js:683
-msgid "Tasks"
+msgid "Nhiệm vụ"
 msgstr ""
 
 #: data/po_files/../../sections/todo/view__stats.js:203
 #: data/po_files/../../sections/todo/view__stats.js:297
 #: data/po_files/../../sections/todo/view__stats.js:683
-msgid "Projects"
+msgid "Dự án"
 msgstr ""
 
 #: data/po_files/../../sections/todo/view__stats.js:224
-msgid "Year:"
+msgid "Năm:"
 msgstr ""
 
 #: data/po_files/../../sections/todo/view__stats.js:224
-msgid "Month:"
+msgid "Tháng:"
 msgstr ""
 
 #: data/po_files/../../sections/todo/view__stats.js:224
-msgid "Day:"
+msgid "Ngày:"
 msgstr ""
 
 #: data/po_files/../../sections/todo/view__stats.js:254
@@ -111,11 +111,11 @@ msgid "Ok"
 msgstr ""
 
 #: data/po_files/../../sections/todo/view__stats.js:291
-msgid "Custom Range..."
+msgid "Tùy chọn khoảng..."
 msgstr ""
 
 #: data/po_files/../../sections/todo/view__stats.js:588
-msgid "Stats for task"
+msgid "Thống kê của nhiệm vụ"
 msgstr ""
 
 #: data/po_files/../../sections/todo/view__stats.js:614
@@ -124,54 +124,54 @@ msgstr ""
 #: data/po_files/../../sections/todo/view__stats.js:1175
 #: data/po_files/../../sections/todo/view__stats.js:1184
 #, javascript-format
-msgid "%d day"
-msgid_plural "%d days"
+msgid "%d ngày"
+msgid_plural "%d ngày"
 msgstr[0] ""
 msgstr[1] ""
 
 #: data/po_files/../../sections/todo/view__stats.js:1174
-msgid "Average per day (including off days)"
+msgid "Trung bình mỗi ngày (gồm ngày nghỉ)"
 msgstr ""
 
 #: data/po_files/../../sections/todo/view__stats.js:1183
-msgid "Average per day (excluding off days)"
+msgid "Trung bình mỗi ngày (không gồm ngày nghỉ)"
 msgstr ""
 
 #: data/po_files/../../sections/todo/view__stats.js:1186
 #: data/po_files/../../sections/todo/view__stats.js:1196
-msgid "Total"
+msgid "Tổng"
 msgstr ""
 
 #: data/po_files/../../sections/todo/view__stats.js:1228
-msgid "Interval"
+msgid "Khoảng thời gian"
 msgstr ""
 
 #: data/po_files/../../sections/todo/view__stats.js:1230
-msgid "No intervals found."
+msgid "Không tìm thấy khoảng thời gian."
 msgstr ""
 
 #: data/po_files/../../sections/todo/view__sort.js:63
-msgid "Sort by Pin"
+msgid "Xếp theo Pin"
 msgstr ""
 
 #: data/po_files/../../sections/todo/view__sort.js:64
-msgid "Sort by Context"
+msgid "Xếp theo bối cảnh"
 msgstr ""
 
 #: data/po_files/../../sections/todo/view__sort.js:65
-msgid "Sort by Projects"
+msgid "Xếp theo dự án"
 msgstr ""
 
 #: data/po_files/../../sections/todo/view__sort.js:66
-msgid "Sort by Priority"
+msgid "Xếp theo độ ưu tiên"
 msgstr ""
 
 #: data/po_files/../../sections/todo/view__sort.js:67
-msgid "Sort by Due Date"
+msgid "Xếp theo ngày đến hạn"
 msgstr ""
 
 #: data/po_files/../../sections/todo/view__sort.js:68
-msgid "Sort by Alphabet"
+msgid "Xếp theo bảng chữ cái"
 msgstr ""
 
 #: data/po_files/../../sections/todo/view__sort.js:69
